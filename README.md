@@ -1,5 +1,7 @@
 # JavaScript Bootcamp #2
-I denne opgave skal du arbejde med at manipulere DOM
+I denne opgave skal du arbejde med at manipulere DOM.
+
+Læs først artiklen [Defer non-critical CSS](https://web.dev/articles/defer-non-critical-css).
 
 ## Opgave
 Du skal beslutte dig for, hvilke CSS-regler der er kritiske.
